@@ -7,6 +7,14 @@
 - [`presentation.md`](presentation.md): 経営者コミュニティでの20分発表用Markdown
 - [`presentation/`](presentation/): 発表パートごとの台本ファイル
 
+## GitHub Pages
+
+`slidev/dist/` のビルド済みHTMLをGitHub Pagesで公開します。
+
+公開するには、GitHubでこのリポジトリの `Settings` -> `Pages` を開き、`Build and deployment` の `Source` を `GitHub Actions` に設定してください。
+
+`main` または `develop` にpushすると、`.github/workflows/pages.yml` が `slidev/dist/` をPagesへデプロイします。
+
 ## Draft Materials
 
 まずは `chapters/` の番号順に、思い出せることから箇条書きで埋めていきます。
