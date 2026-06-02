@@ -2,6 +2,13 @@
 
 人生を時系列で発表するための原稿置き場です。
 
+## Presentation
+
+- [`presentation.md`](presentation.md): 経営者コミュニティでの20分発表用Markdown
+- [`presentation/`](presentation/): 発表パートごとの台本ファイル
+
+## Draft Materials
+
 まずは `chapters/` の番号順に、思い出せることから箇条書きで埋めていきます。
 後から文章化しやすいように、出来事だけでなく「その時どう感じたか」「何が変わったか」も残します。
 
@@ -17,4 +24,3 @@
 8. `chapters/07_work_and_projects.md`
 9. `chapters/08_major_turning_points.md`
 10. `chapters/09_now_and_future.md`
-
