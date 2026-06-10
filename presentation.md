@@ -21,11 +21,13 @@
 
 ## 台本ファイル
 
-- [`presentation/01_current_business_and_schedule.md`](presentation/01_current_business_and_schedule.md)
-- [`presentation/02_origin_and_values.md`](presentation/02_origin_and_values.md)
-- [`presentation/03_career_to_founder.md`](presentation/03_career_to_founder.md)
-- [`presentation/04_personal_growth.md`](presentation/04_personal_growth.md)
-- [`presentation/05_management_issues_and_questions.md`](presentation/05_management_issues_and_questions.md)
+- [`presentation/01_introduction_and_purpose.md`](presentation/01_introduction_and_purpose.md)
+- [`presentation/02_childhood_expectations_and_setback.md`](presentation/02_childhood_expectations_and_setback.md)
+- [`presentation/03_fx_and_money_obsession.md`](presentation/03_fx_and_money_obsession.md)
+- [`presentation/04_cram_school_sales_and_listening.md`](presentation/04_cram_school_sales_and_listening.md)
+- [`presentation/05_teacher_job_and_workplace_mismatch.md`](presentation/05_teacher_job_and_workplace_mismatch.md)
+- [`presentation/06_breakup_to_engineer_career.md`](presentation/06_breakup_to_engineer_career.md)
+- [`presentation/07_joining_doyukai.md`](presentation/07_joining_doyukai.md)
 
 ---
 
